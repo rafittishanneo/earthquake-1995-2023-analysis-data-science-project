@@ -1,0 +1,2 @@
+# earthquake-1995-2023-analysis-data-science-project
+This project presents an end-to-end data science workflow on global earthquake data (1995–2023). It includes data cleaning, handling missing and invalid values, duplicate removal, normalization, class imbalance and exploratory data analysis (EDA) using R. The project demonstrates practical techniques for preparing real-world datasets for analysis.
